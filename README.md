@@ -6,9 +6,9 @@ A curated collection of links and repositories of RazorEnhaced scripts and relat
 Wiki: http://razorenhanced.net/dokuwiki/doku.php    
 Examples: https://discord.gg/B5ECJVxRNR    
 Scripts:     
-  http://razorenhanced.net/dokuwiki/doku.php?id=player_provided    
-  https://discord.gg/B5ECJVxRNR    
-  https://discord.gg/7xqrZA4RR4    
+- http://razorenhanced.net/dokuwiki/doku.php?id=player_provided    
+- https://discord.gg/B5ECJVxRNR    
+- https://discord.gg/7xqrZA4RR4    
 
 
 # Video Tutorials
