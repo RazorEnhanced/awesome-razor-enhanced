@@ -30,7 +30,7 @@ Scripts:
 - Scravenger: https://www.youtube.com/watch?v=2KAAW8PtbdM    
 - Organizer: https://www.youtube.com/watch?v=9lPVbD5OEy0    
 - Vendor Buy: https://www.youtube.com/watch?v=PEBfGbxO-BM    
-- Vendor Sell: https://www.youtube.com/watch?v=XzavMuaDvc8    
+- Vendor Sell: https://www.youtube.com/watch?v=XzavMuaDvc8     
 - Autoloot:  https://www.youtube.com/watch?v=rjW6De-ginc    
 - Dress/Undress: https://www.youtube.com/watch?v=T1nfb2oX4Wc    
 
