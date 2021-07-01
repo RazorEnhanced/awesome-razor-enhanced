@@ -1,6 +1,6 @@
 ![drawing](dokuwiki/media/razor-enhanced-splash.png)
 
-# Awesome: Razor Enhanced
+# Awesome Razor Enhanced
 A curated collection of links and repositories of RazorEnhaced scripts and related projects, maintained by the community (https://discord.gg/7xqrZA4RR4)    
 
 # Official Documentation    
