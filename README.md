@@ -3,6 +3,8 @@
 # Awesome Razor Enhanced
 A curated collection of resources for RazorEnhaced, maintained by the community (https://discord.gg/7xqrZA4RR4).    
 
+
+
 [Official Documentation](#official-documentation)
 [Video Tutorials](#video-tutorials)
 [Scripts and Repositories](#scripts-and-repositories)
