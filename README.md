@@ -8,7 +8,7 @@ A curated collection of resources for RazorEnhaced, maintained by the community 
 - [Official Documentation](#official-documentation)    
 - [Video Tutorials](#video-tutorials)    
 - [Scripts and Repositories](#scripts-and-repositories)    
-- [Tools & Utilities](#Tools-Utilities)    
+- [Tools & Utilities](#tools--utilities)    
 
 
 
