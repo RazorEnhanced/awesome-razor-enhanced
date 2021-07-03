@@ -48,3 +48,12 @@ Scripts:
 ## C#
 
 (coming soon)
+
+
+# Ultima Online Tools Debug Tools
+- http://eranova.cz/ultima_manawydan/download.php - Ultima Online Builder: Tools like: edit speech, edit map, edit .mul, greate gumps, create animations...
+- https://github.com/Ben1028/SpyUO - SpyUO: Network Packer logger
+- http://uofiddler.polserver.com/ - UOFiddle: All-in-one most femouse tool to customizer your Shard, reads and edit .mul, etc 
+- https://docs.polserver.com/packets/index.php - List of all known UO network packets with detaild descriptions of each field.
+
+
