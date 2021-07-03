@@ -51,7 +51,7 @@ Scripts:
 
 
 # Ultima Online Tools Debug Tools
-- http://eranova.cz/ultima_manawydan/download.php - Ultima Online Builder: Tools like: edit speech/map/.mul/.ani edit map, greate gumps, etc    
+- http://eranova.cz/ultima_manawydan/download.php - Ultima Online Builder: Tools like: edit speech/map/.mul/.ani/, create gumps    
 - https://github.com/Ben1028/SpyUO - SpyUO: Network Packer logger    
 - http://uofiddler.polserver.com/ - UOFiddle: All-in-one most femouse tool to customizer your Shard, reads and edit .mul, etc     
 - https://docs.polserver.com/packets/index.php - List of all known UO network packets with detaild descriptions of each field.    
