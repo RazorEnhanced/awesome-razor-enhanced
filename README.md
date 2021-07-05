@@ -62,9 +62,11 @@ Scripts:
 
 
 # Tools & Utilities
+- https://downloads.runuo.net/GumpStudio/GumpStudio_1_8_R2.zip - GumpStudio: Edit gump visually and produce valid ServUO code.
 - http://eranova.cz/ultima_manawydan/download.php - Ultima Online Builder: Tools like: edit speech/map/.mul/.ani/, create gumps    
 - https://github.com/Ben1028/SpyUO - SpyUO: Network Packer logger    
 - http://uofiddler.polserver.com/ - UOFiddle: All-in-one most femouse tool to customizer your Shard, reads and edit .mul, etc     
 - https://docs.polserver.com/packets/index.php - List of all known UO network packets with detaild descriptions of each field.    
+
 
 
