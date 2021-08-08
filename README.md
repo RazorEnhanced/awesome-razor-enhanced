@@ -52,6 +52,7 @@ Scripts:
 ## Python
 - https://github.com/matsamilla/Razor-Enhanced    
 - https://github.com/TheWarDoctor95/razor-enhanced    
+- https://github.com/feboss/RazorEnhanced
 
 ## UOSteam
 - https://github.com/her/uosteam - Hugh collection of UOSteam scripts, the vast majority are 100% compatible with UOS.RE    
