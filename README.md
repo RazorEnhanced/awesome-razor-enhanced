@@ -58,8 +58,7 @@ Scripts:
 - https://github.com/her/uosteam - Hugh collection of UOSteam scripts, the vast majority are 100% compatible with UOS.RE    
 
 ## C#
-
-(coming soon)
+- https://github.com/caporalesimone/RazorEnhacedCSharpScripts - A collection of C# scripts that can be used as reference
 
 
 # Tools & Utilities
