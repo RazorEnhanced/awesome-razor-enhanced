@@ -51,6 +51,7 @@ Scripts:
 
 ## Python
 - https://github.com/matsamilla/Razor-Enhanced    
+- https://github.com/Dramoor/Razor-Enhanced-Scripts
 - https://github.com/TheWarDoctor95/razor-enhanced    
 - https://github.com/feboss/RazorEnhanced
 
