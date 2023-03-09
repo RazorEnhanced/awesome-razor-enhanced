@@ -72,7 +72,7 @@ Scripts:
   http://eranova.cz/ultima_manawydan/download.php       
 
 - SpyUO: Network Packer logger   
-- https://github.com/Ben1028/SpyUO    
+  https://github.com/Ben1028/SpyUO    
 
 - UOFiddle:              
   All-in-one most femouse tool to customizer your Shard, reads and edit .mul, etc       
