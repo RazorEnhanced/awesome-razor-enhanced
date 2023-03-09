@@ -71,7 +71,7 @@ Scripts:
   Tools like: edit speech/map/.mul/.ani/, create gumps            
   http://eranova.cz/ultima_manawydan/download.php       
 
-- SpyUO: Network Packer logger        
+- SpyUO: Network Packer logger   
 - https://github.com/Ben1028/SpyUO    
 
 - UOFiddle:              
