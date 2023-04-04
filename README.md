@@ -71,7 +71,7 @@ Scripts:
   
 - Ultima Online Builder      
   Tools like: edit speech/map/.mul/.ani/, create gumps            
-  https://www.servuo.com/threads/ultima-online-builder-various-tools.1141/      
+  https://web.archive.org/web/20150928043859/http://ultima.manawydan.cz/download.php    
 
 - SpyUO: Network Packer logger   
   https://github.com/RazorEnhanced/SpyUO  (forked from: https://github.com/Ben1028/SpyUO )
