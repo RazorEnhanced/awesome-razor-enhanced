@@ -54,6 +54,7 @@ Scripts:
 - https://github.com/Dramoor/Razor-Enhanced-Scripts
 - https://github.com/TheWarDoctor95/razor-enhanced    
 - https://github.com/feboss/RazorEnhanced
+- https://github.com/YulesRules/Ultima-Online-Razor-Enhanced-Pathfinding ( standalone pathfinding )
 
 ## UOSteam
 - https://github.com/her/uosteam - Hugh collection of UOSteam scripts, the vast majority are 100% compatible with UOS.RE 
